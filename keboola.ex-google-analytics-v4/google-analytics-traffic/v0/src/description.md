@@ -1,0 +1,3 @@
+Need to understand where your website traffic comes from and how visitors engage with your content? This template extracts comprehensive traffic acquisition data from Google Analytics 4, giving you insights into traffic sources, campaign performance, and user engagement patterns.
+
+Get started in minutes: Simply authorize your Google Analytics account, select your property, and choose a date range. The template will automatically extract key metrics like active users, session duration, and engagement rates, broken down by traffic source, medium, and campaign - perfect for creating traffic acquisition reports and analyzing marketing campaign effectiveness.

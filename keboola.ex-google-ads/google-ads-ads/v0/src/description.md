@@ -1,0 +1,3 @@
+Need to analyze your Google Ads performance across campaigns, ad groups and individual ads? This template automatically extracts comprehensive advertising data from your Google Ads accounts, giving you deep insights into your ad performance and ROI.
+
+Get started in minutes: Simply authenticate with your Google Ads account, select the accounts you want to analyze, and set your preferred date range. The template will automatically extract key metrics like impressions, clicks, costs, conversions and engagement rates, organized by campaigns, ad groups and individual ads - perfect for creating performance dashboards and ROI analysis.

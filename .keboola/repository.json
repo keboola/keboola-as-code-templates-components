@@ -8,7 +8,7 @@
     {
       "id": "kai-promptlab",
       "name": "Kai PromptLab",
-      "description": "Streamline your AI prompting process! Use this Streamlit app to refine, test, and compare multiple prompts, ensuring optimal results. Dive into AI with enhanced efficiency!",
+      "description": "Streamline AI prompting with this Streamlit app. Test and compare prompts, analyze results, and optimize your AI interactions efficiently.",
       "requirements": 
         {
           "backends": ["snowflake","bigquery"],
@@ -34,8 +34,8 @@
     },
     {
       "id": "kai-sql-bot",
-      "name": "Kai SQL bot",
-      "description": "Chat with our AI-driven SQL Bot to effortlessly query your Snowflake database. Seamless and powerful!",
+      "name": "Kai SQL Bot",
+      "description": "AI-powered SQL assistant that helps you query your database through natural language conversations. Simple, efficient, and user-friendly.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -62,7 +62,7 @@
     {
       "id": "hello-world",
       "name": "Hello World",
-      "description": "Experience a Streamlit web app with interactive widgets and optimized performance, showcasing caching for fast data loading and a user-friendly interface.",
+      "description": "Learn Streamlit basics with this demo app featuring interactive widgets, performance optimization, and data caching techniques.",
       "requirements": {
         "backends": ["snowflake","bigquery"],
         "components": ["keboola.data-apps"],
@@ -89,7 +89,7 @@
     {
       "id": "keboola-data-editor",
       "name": "Keboola Data Editor",
-      "description": "Simplify your data editing and management within your company using this demo data app that showcases the interaction between Streamlit and Keboola Storage.",
+      "description": "Demo app for easy data editing and management, demonstrating seamless integration between Streamlit and Keboola Storage.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -113,10 +113,10 @@
         }
       ]
     },
-        {
+    {
       "id": "facebook-ads-campaigns",
       "name": "Facebook Ads - Campaigns",
-      "description": "This data source is getting data about Facebook campaigns for the last month.",
+      "description": "Extract Facebook campaign performance data from the last 30 days, including metrics, spend, and results.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -142,7 +142,7 @@
     {
       "id": "facebook-ads-adsets",
       "name": "Facebook Ads - Adsets",
-      "description": "This data source is getting data about Facebook adsets for the last month.",
+      "description": "Retrieve Facebook ad set data from the last 30 days, including targeting, budget, and performance metrics.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -168,7 +168,7 @@
     {
       "id": "facebook-ads-ads",
       "name": "Facebook Ads - Ads",
-      "description": "This data source is getting data about Facebook ads for the last month.",
+      "description": "Get detailed Facebook ad performance data from the last 30 days, including creative, placement, and engagement metrics.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -194,7 +194,7 @@
     {
       "id": "gitlab-pipelines",
       "name": "GitLab - Pipelines",
-      "description": "This data source is getting data about GitLab projects and pipelines.",
+      "description": "Extract GitLab CI/CD pipeline data including status, duration, and results for your projects.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -218,7 +218,7 @@
     {
       "id": "gitlab-projects",
       "name": "GitLab - Projects",
-      "description": "This data source is getting data about GitLab projects.",
+      "description": "Retrieve GitLab project metadata, settings, and statistics for better project oversight.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -242,7 +242,7 @@
     {
       "id": "keboola-configuration-events",
       "name": "Keboola - Configuration Events",
-      "description": "This is the data source that returns the event data of a specific configuration in Keboola.",
+      "description": "Extract configuration change events and audit logs from your Keboola project.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -266,7 +266,7 @@
     {
       "id": "keboola-deleted-tables",
       "name": "Keboola - Deleted Tables",
-      "description": "This is the data source that returns data about deleted tables in Keboola.",
+      "description": "Track and analyze information about deleted tables in your Keboola project.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -289,8 +289,8 @@
     },
     {
       "id": "keboola-project-tables-with-metadata",
-      "name": "Keboola - Project Tables with Metadata",
-      "description": "This data source returns metadata about all tables and buckets in the selected Keboola project.",
+      "name": "Keboola - Tables Metadata",
+      "description": "Get comprehensive metadata about tables and buckets in your Keboola project, including structure and properties.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -314,7 +314,7 @@
     {
       "id": "keboola-queue-jobs",
       "name": "Keboola - Queue Jobs",
-      "description": "This data source returns data about jobs in the selected Keboola project.",
+      "description": "Monitor and analyze job queue performance and status in your Keboola project.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -338,7 +338,7 @@
     {
       "id": "keboola-sandboxes",
       "name": "Keboola - Sandboxes",
-      "description": "This data source returns data about sandboxes in the selected Keboola project.",
+      "description": "Track and manage sandbox environments in your Keboola project with detailed status information.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -362,7 +362,7 @@
     {
       "id": "keboola-storage-size",
       "name": "Keboola - Storage Size",
-      "description": "This data source returns metadata about the tables including their storage size in the selected Keboola project.",
+      "description": "Monitor storage usage and table sizes in your Keboola project with detailed metadata and metrics.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -386,7 +386,7 @@
     {
       "id": "opsgenie",
       "name": "Opsgenie",
-      "description": "The data source retrieves data about teams, users, alerts, and schedules from your Opsgenie.",
+      "description": "Extract Opsgenie data including teams, users, alerts, and on-call schedules for operational insights.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -410,7 +410,7 @@
     {
       "id": "smartlook",
       "name": "Smartlook",
-      "description": "This data source retrieves data about sessions.",
+      "description": "Analyze user session data from Smartlook for better understanding of user behavior.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -434,7 +434,7 @@
     {
       "id": "rootly",
       "name": "Rootly",
-      "description": "This data source retrieves data about incident insights.",
+      "description": "Get detailed incident insights and analytics from your Rootly platform.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -458,7 +458,7 @@
     {
       "id": "calendarific",
       "name": "Calendarific",
-      "description": "This is a data source returning dates of holidays in 4 countries (GB,US,CA,CZ) in the selected year.",
+      "description": "Access holiday dates for GB, US, CA, and CZ regions for the selected year.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -482,7 +482,7 @@
     {
       "id": "google-ads-ads",
       "name": "Google Ads - Ads",
-      "description": "This data source is getting data about Google Ads at the level of ads.",
+      "description": "Extract detailed Google Ads performance data at the individual ad level.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -508,7 +508,7 @@
     {
       "id": "google-ads-adgroups",
       "name": "Google Ads - AdGroups",
-      "description": "This data source is getting data about Google Ads ad-groups.",
+      "description": "Get comprehensive Google Ads data at the ad group level with performance metrics.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -534,7 +534,7 @@
     {
       "id": "google-ads-campaigns",
       "name": "Google Ads - Campaigns",
-      "description": "This data source is getting data about Google Ads campaigns.",
+      "description": "Retrieve Google Ads campaign performance data with detailed metrics and insights.",
       "requirements":
         {
           "backends": ["snowflake","bigquery"],
@@ -559,8 +559,8 @@
     },
     {
       "id": "google-analytics-traffic",
-      "name": "Google Analytics - Traffic Acquisition",
-      "description": "An extractor that pulls Google Analytics traffic acquisition data, tracking sources, user types, and engagement metrics.",
+      "name": "GA4 - Traffic Acquisition",
+      "description": "Track traffic sources, user engagement, and acquisition metrics from Google Analytics 4 for comprehensive traffic analysis.",
       "requirements": {
         "backends": [
           "snowflake",
@@ -586,8 +586,8 @@
     },
     {
       "id": "google-analytics-user",
-      "name": "Google Analytics - User Acquisition",
-      "description": "An extractor that retrieves Google Analytics user acquisition data, providing insights into user demographics and engagement metrics.",
+      "name": "GA4 - User Acquisition",
+      "description": "Analyze user demographics, behavior, and engagement patterns with detailed Google Analytics 4 user acquisition data.",
       "requirements": {
         "backends": [
           "snowflake",
@@ -613,8 +613,8 @@
     },
     {
       "id": "google-analytics-events",
-      "name": "Google Analytics - Events Engagement",
-      "description": "An extractor that pulls Google Analytics event engagement data for user interaction insights.",
+      "name": "GA4 - Events Engagement",
+      "description": "Monitor user interactions and event performance with detailed Google Analytics 4 event tracking data.",
       "requirements": {
         "backends": [
           "snowflake",
@@ -640,8 +640,8 @@
     },
     {
       "id": "google-analytics-landing-page",
-      "name": "Google Analytics - Landing Page Insights",
-      "description": "An extractor that retrieves Google Analytics landing page engagement data for performance insights.",
+      "name": "GA4 - Landing Page Insights",
+      "description": "Analyze landing page performance and user engagement metrics from Google Analytics 4.",
       "requirements": {
         "backends": [
           "snowflake",
@@ -667,8 +667,8 @@
     },
     {
       "id": "keboola-bq-timepartioned-table",
-      "name": "Create BQ Time Partitioned Table",
-      "description": "Create a BigQuery backend table with time partitioning.",
+      "name": "BQ Time Partitioned Table",
+      "description": "Create and manage time-partitioned tables in BigQuery for optimized performance.",
       "requirements": {
         "backends": ["bigquery"],
         "components": ["kds-team.app-custom-python"],

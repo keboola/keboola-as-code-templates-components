@@ -1,10 +1,30 @@
-The Flow in a nutshell:
-- Provide storage token which has specified rights to view and/or edit specific buckets, folders in keboola storage. Creation of such token is located within settings.
-- Define the field/column limitations within the Python code of the App.
-- Deploy the App. 
+A powerful data editing interface that allows business users to directly view and modify data stored in Keboola Storage tables through an intuitive spreadsheet-like interface, eliminating the need for data exports and external tools.
 
-Within the Data App:
-- Business users will be able to select a table for editing.
-- Once the edits are done, hit the “Save“ button and the changes will instantly be saved back into the table in Keboola Storage via full load or incremental load when primary keys are set.
+## Configuration
+- Storage token configuration with specific bucket/folder access rights
+- Field/column editing limitations and validations
+- User access controls and permissions
+- Table selection and editing capabilities
 
-For more information, take a look at our [documentation](https://help.keboola.com/templates/interactive-keboola-sheets/).
+### Required Parameters
+- `kbc_storage_token` - Keboola Storage token with appropriate read/write permissions for target tables
+
+## Output Data
+- Modified tables in Keboola Storage
+- Changes applied through full load or incremental updates (when primary keys are set)
+- Audit trail of modifications
+
+## Features
+- Direct table editing in spreadsheet format
+- Real-time data validation
+- Immediate changes reflection in Keboola Storage
+- Support for both full and incremental updates
+- User-friendly interface for non-technical users
+- Column-level access control
+- Built-in data validation rules
+- Change history tracking
+
+## Links
+- [Interactive Keboola Sheets Documentation](https://help.keboola.com/templates/interactive-keboola-sheets/)
+- [Keboola Storage API Documentation](https://developers.keboola.com/integrate/storage/)
+- [Data Apps Documentation](https://help.keboola.com/components/applications/)

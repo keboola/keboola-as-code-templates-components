@@ -1,0 +1,3 @@
+Need to track changes and monitor activity in your Keboola configurations? This template automatically extracts event logs for specific configurations, giving you complete visibility into when and how your components are running, changing, or encountering issues.
+
+Get started in minutes: Simply provide your Keboola connection details and configuration ID, and the template will start collecting all events related to that configuration. You'll be able to see who made changes, when jobs were executed, and track any errors or warnings - perfect for auditing, debugging, and monitoring your critical data pipelines.
