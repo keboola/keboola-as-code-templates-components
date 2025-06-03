@@ -1,1 +1,3 @@
-PromptLab: Streamline your AI prompting process! Use this Streamlit app to refine, test, and compare multiple prompts, ensuring optimal results. Dive into AI with enhanced efficiency!
+Struggling with crafting effective AI prompts? PromptLab streamlines your prompt engineering process by providing automated refinement suggestions and side-by-side testing capabilities. Perfect for content creators, developers, and anyone working with AI models who wants to optimize their prompts.
+
+Get started in minutes: Simply input your initial prompt, receive improvement suggestions, and test multiple versions simultaneously to identify the most effective formulation. Compare results directly in the intuitive interface and iterate until you achieve optimal results.

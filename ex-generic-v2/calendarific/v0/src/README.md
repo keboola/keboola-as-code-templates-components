@@ -1,5 +1,3 @@
-# Calendarific Holidays Data Source
-
 This template uses the Generic Extractor to retrieve national holiday data from the Calendarific API, helping you maintain an up-to-date calendar of holidays for multiple countries.
 
 ## Configuration

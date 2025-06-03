@@ -1,0 +1,3 @@
+Need to track and analyze your Facebook advertising performance? This template automatically extracts campaign data and insights from your Facebook Ads accounts, giving you a complete view of your advertising performance, spend, and engagement metrics.
+
+Get started in minutes: Simply authorize your Facebook Ads account, select the accounts you want to analyze, and the template will automatically extract your campaign data and daily performance metrics. You'll immediately see key metrics like impressions, reach, clicks, and spend for all your campaigns, enabling data-driven optimization of your Facebook advertising strategy.

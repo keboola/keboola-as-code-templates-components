@@ -1,0 +1,3 @@
+Want to optimize your Facebook ad campaigns by analyzing performance at the ad set level? This template automatically extracts detailed data about your Facebook Ads ad sets including daily metrics like impressions, reach, clicks, and spend. Perfect for marketing teams who need granular insights into audience targeting and budget allocation.
+
+Get started in minutes: Simply authorize your Facebook Ads account and select which ad accounts to analyze. The template will automatically extract last month's data for all your ad sets, organized by campaigns. You'll have a complete view of your ad set performance ready for analysis and optimization.

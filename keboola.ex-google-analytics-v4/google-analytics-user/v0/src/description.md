@@ -1,0 +1,3 @@
+Need to understand your website visitors better and track user engagement? This template extracts comprehensive user acquisition and demographic data from Google Analytics 4, giving you deep insights into who your users are and how they interact with your site.
+
+Get started in minutes: Simply connect your Google Analytics 4 account, select your property, and get instant access to user metrics, engagement data, and demographic breakdowns. Track daily trends of new vs returning users, analyze engagement rates across different user segments, and understand your audience demographics - all in one place.
