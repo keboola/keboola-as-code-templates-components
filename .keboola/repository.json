@@ -15,8 +15,7 @@
           "components": ["keboola.data-apps"],
           "features": ["sandboxes-data-apps"]
         },
-      "path": "keboola.data-apps/kai-promptlab",
-      "deprecated": false,
+      "deprecated": true,
       "categories": [
         "Data Apps", "Artificial Intelligence"
       ],
@@ -27,8 +26,7 @@
           "stable": false,
           "components": [
             "keboola.data-apps"
-          ],
-          "path": "v0"
+          ]
         }
       ]
     },
